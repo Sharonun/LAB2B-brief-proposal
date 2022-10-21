@@ -16,3 +16,8 @@ Name  | quantity
 Resistors  | a few
 led  | 2
 wires  | many
+
+
+## Questions
+
+I don't quite understand how I should interact with the sensor using C programming now. I think I need some examples to learn from.
